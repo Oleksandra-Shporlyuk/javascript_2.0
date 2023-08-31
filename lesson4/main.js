@@ -156,3 +156,19 @@
 //     {currency:'EUR',value:42}
 // ]
 // console.log(exchange(20000, currencyValues, 'EUR'));
+
+///study
+
+// function reverseNumber(n){
+//     n = n + "";
+//     return n.split('').reverse().join('')
+//
+// }
+// console.log(reverseNumber(12345));
+
+// function strABC(words){
+//         return words.split('').sort().join('');
+// }
+//
+// console.log(strABC('283746530561482'));
+
