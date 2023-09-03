@@ -1,5 +1,6 @@
 // Масиви та об'єкти:
 // - Створити масив, наповнити його 10 елементами будь-якого типу, вивести кожен елемент в консоль
+
 let arr = [1, 2, 3, 'as', 'df', 're', 34, true, false, 55];
 console.log(arr[0]);
 console.log(arr[1]);
@@ -29,7 +30,7 @@ console.log(arr[9]);
 // }
 // - Створити 3 об'єкти які описують книги. Поля об'єкту : title ,pageCount, genre, authors. Поле "автори" - являється  масивом. Кожен автор має поля name та age.
 let book1 = {
-    title: 'dead',
+    title: 'life',
     pageCount: 23,
     genre: 'roman',
     authors: [{name: 'dkdkd', age: 23}]
