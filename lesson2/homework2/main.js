@@ -29,12 +29,12 @@ console.log(arr[9]);
 //     genre:'detectiv'
 // }
 // - Створити 3 об'єкти які описують книги. Поля об'єкту : title ,pageCount, genre, authors. Поле "автори" - являється  масивом. Кожен автор має поля name та age.
-let book1 = {
-    title: 'life',
-    pageCount: 23,
-    genre: 'roman',
-    authors: [{name: 'dkdkd', age: 23}]
-}
+// let book1 = {
+//     title: 'life',
+//     pageCount: 23,
+//     genre: 'roman',
+//     authors: [{name: 'dkdkd', age: 23}]
+// }
 let book2 = {
     title: 'life',
     pageCount: 50,
