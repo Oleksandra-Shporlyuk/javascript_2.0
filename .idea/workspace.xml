@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a736eacd-91f5-42ab-89e5-41dc475be12b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/lesson7/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson7/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson8/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson8/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson2/homework2/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/homework2/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson8/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/lesson8/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +69,8 @@
       <workItem from="1693211113086" duration="5326000" />
       <workItem from="1693738406358" duration="19422000" />
       <workItem from="1694029679649" duration="3977000" />
-      <workItem from="1694344894527" duration="6129000" />
+      <workItem from="1694344894527" duration="6283000" />
+      <workItem from="1694374061425" duration="1426000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1692622236293</created>
@@ -131,7 +128,14 @@
       <option name="project" value="LOCAL" />
       <updated>1693784068373</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="hw8">
+      <created>1694359969478</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1694359969478</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -150,7 +154,8 @@
     <MESSAGE value="hw4" />
     <MESSAGE value="hw5" />
     <MESSAGE value="hw6" />
-    <option name="LAST_COMMIT_MESSAGE" value="hw6" />
+    <MESSAGE value="hw8" />
+    <option name="LAST_COMMIT_MESSAGE" value="hw8" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
